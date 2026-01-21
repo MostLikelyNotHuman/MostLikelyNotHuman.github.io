@@ -21,7 +21,7 @@ Music For Beginners — LaunchCode Capstone Project
 * Makes use of JavaScript for functionality, HTML for layout, CSS for styling, and React to pull everything together with a clean, responsive interface
 
 ### EDUCATION
-LaunchCode, Software Development, 2026
+LaunchCode, Software Development, 2026 <br>
 Webster University, Bachelor’s in Game Design
 
 ***
